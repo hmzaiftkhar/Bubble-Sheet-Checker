@@ -1,4 +1,4 @@
-Optical Mark Recognition is used to recognize marks on paper. The most common use case of OMR is checking of MCQs papers. 
+This project leverages the power of computer vision to help teachers grade multiple choice exams quickly and accurately. Teachers can scan the answer sheets, upload the solution and the system will automatically grade the exams and provide a detailed report of the results. This project is a perfect solution for teachers who are looking to save time and effort while grading exams.
 
 ## How it Works
 - The image is converted to grayscale and then Gaussian blur is applied to remove noise
@@ -57,3 +57,15 @@ Optical Mark Recognition is used to recognize marks on paper. The most common us
 |:--:|
 |*All Exams*|
 
+## Individual Exam Actions:
+We can now perform the following actions:
+- **Upload a New Solution:** Click on Upload Solution to provide a new Solution
+- **Generate Report:** If you uploaded a new solution, you can click generate
+report and it will generate an uploaded report
+- **Upload New Image to Score:** You can upload more images by clicking on
+the Upload an Image Button and Then generate a new Report to Score them.
+- **Download CSV:** You can download the CSV File of the report.
+
+## Collaborators
+- [Hamza Iftikhar](https://github.com/Ham-Ifti)
+- [Hamza Khalid](https://github.com/hmzakhalid)

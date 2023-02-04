@@ -19,7 +19,7 @@ def getContours(img):
     contours, hierarchy = cv2.findContours(edges, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
     contours = sorted(contours, key = cv2.contourArea, reverse = True)
     # remove contours that are too small or too large
-    contours = [cnt for cnt in contours if 1000 < cv2.contourArea(cnt) < 200000]
+    contours = [cnt for cnt in contours if 1000<cv2.contourArea(cnt)<200000]
     rec_Contours = []
     if len(contours) > 0:
         for i in range(2):

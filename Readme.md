@@ -58,7 +58,7 @@ This project leverages the power of computer vision to help teachers grade multi
 |*All Exams*|
 
 ## Individual Exam Actions:
-We can now perform the following actions:
+You can now perform the following actions:
 - **Upload a New Solution:** Click on Upload Solution to provide a new Solution
 - **Generate Report:** If you uploaded a new solution, you can click generate
 report and it will generate an uploaded report

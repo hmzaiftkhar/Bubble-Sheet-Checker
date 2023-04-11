@@ -67,5 +67,5 @@ the Upload an Image Button and Then generate a new Report to Score them.
 - **Download CSV:** You can download the CSV File of the report.
 
 ## Collaborators
-- [Hamza Iftikhar](https://github.com/Ham-Ifti)
+- [Hamza Iftikhar](https://github.com/hmzaiftkhar)
 - [Hamza Khalid](https://github.com/hmzakhalid)

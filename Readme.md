@@ -59,12 +59,11 @@ This project leverages the power of computer vision to help teachers grade multi
 
 ## Individual Exam Actions:
 You can now perform the following actions:
-- **Upload a New Solution:** Click on Upload Solution to provide a new Solution
-- **Generate Report:** If you uploaded a new solution, you can click generate
-report and it will generate an uploaded report
+- **Upload a New Solution:** Click on Upload Solution to provide a new solution
+- **Generate Report:** Click Generate Report and it will generate an updated report
 - **Upload New Image to Score:** You can upload more images by clicking on
-the Upload an Image Button and Then generate a new Report to Score them.
-- **Download CSV:** You can download the CSV File of the report.
+the Upload an Image Button and then generate a new report to score them
+- **Download CSV:** You can download the CSV file of the report
 
 ## Collaborators
 - [Hamza Iftikhar](https://github.com/hmzaiftkhar)
